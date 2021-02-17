@@ -1,10 +1,10 @@
 ### Hi there 👋
 <hr />
 
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/JS__Count/blob/master/Gif.gif"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/MarkUp__Natours/blob/master/4ycj7i.gif"/>
 
 <hr />
-<h1> 👉 <a href="https://mishka-sakhelashvili.github.io/JS__Count/">  View Demo  </a></h1>
+<h1> 👉 <a href="https://mishka-sakhelashvili.github.io/MarkUp__Natours/">  View Demo  </a></h1>
 
 <hr />
 <h2><i>Desc: </i></h2>
